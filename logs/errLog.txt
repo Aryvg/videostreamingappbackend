@@ -1,0 +1,143 @@
+20260203	11:45:57	85b96ed0-5ffd-4350-9a86-c093a514ee29	Error:Not allowed by CORS
+20260204	07:34:12	90fdbb64-6943-40b6-9d85-0466b383fc99	TypeError:path.join is not a function
+20260204	07:34:15	90525472-914d-483e-8ccf-9cb0b27cd88d	TypeError:path.join is not a function
+20260204	07:36:13	f72d02ae-ec6b-4326-a482-943247f2f71b	TypeError:path.join is not a function
+20260204	07:38:30	232e7444-5f0a-407b-b952-70d22c81a858	TypeError:path.join is not a function
+20260204	08:11:11	ccca5f65-ddc1-4145-a909-3b200cf6939f	TypeError:Cannot read properties of undefined (reading 'firstname')
+20260204	08:12:18	4c13fea4-3f01-4314-9f85-15f73ffa0e27	TypeError:Cannot read properties of undefined (reading 'firstname')
+20260204	08:14:20	8e06a698-8087-4c46-bef1-adb043143d86	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:22	ad257689-b251-4250-bb81-8f858c5e3bee	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:23	99f567dc-ec59-44ac-818a-120cd92f492a	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:24	489c39a9-fb0c-44f1-a394-85d6d2bd4f6f	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:24	3f2759c5-100b-4133-996d-a35c98ed6a52	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:14:50	2f210682-56a2-4c0e-aec7-2b95d6c445b9	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:05	9eae31a2-68fe-4a0f-b68f-f5dd4cd519d9	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:06	3fc169a6-0304-43c9-817e-99c0264be602	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:06	a00bad17-5431-4d28-bad4-0914138887c5	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:06	6cc567ff-616c-4f8e-8aba-4b4aa471b362	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:07	a052723d-ea28-475e-9aab-818422746513	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:07	f63531c4-36d1-4713-b9d5-21b0e172a200	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:07	449e6b05-5ed2-4e5b-a11d-c70012e0fd24	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:08	936f2619-8df7-4d14-b542-a2156e2e80ff	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:44	1a2f64ef-76ff-4e86-88c6-e9a4d6cc7ae9	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:16:54	cef034eb-4976-4cf8-bd84-9c9231cc85e7	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:17:06	e3070334-9a65-466b-b83f-68715ca33ddb	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:17:25	afb7fe1b-46c1-4c22-a89d-45ba754c2eb4	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:19:10	e516c792-d16e-420b-8fc9-0f70aea3e9b7	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:19:54	c750277e-b177-48bc-9afd-19702d773483	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:19:55	4da57362-4c6b-4bcd-bc3a-fde0d944ffda	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:19:55	fa485989-d99e-4a94-9d34-27c2f30b69fa	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:20:02	cf4c4fdd-5510-4427-be72-44ae3c355619	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:31:01	4be12c51-905f-49d3-aeb4-ec8fbfcc1e41	TypeError:Cannot read properties of undefined (reading 'firstname')
+20260204	08:43:45	3886b748-1702-4456-bb84-8c1d2a5526dd	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:45:43	28fc9ca6-7e31-419d-ab4a-1d57be41d93a	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:45:45	a74ffcb8-f40f-45ff-8912-1e9ac07dbbfc	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:49:00	e3c47199-07b4-42f1-963f-d6f3d09c8151	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:54:02	dc66bc1f-31c3-4807-83a8-b1696d3b0779	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:57:03	18936080-ca1a-45d0-8799-e6f3e2cedaf7	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	08:57:04	7d671f60-d913-4863-ba1a-2153778dcc3b	TypeError:Cannot read properties of undefined (reading 'firstName')
+20260204	11:21:25	3fb0e9c6-23a7-46c5-8b4f-002a99691457	TypeError:Cannot read properties of undefined (reading 'id')
+20260204	11:24:51	8ddd8645-d80e-4d05-881b-294d68720849	TypeError:Cannot read properties of undefined (reading 'id')
+20260205	07:39:58	cc8ce502-9766-4fba-8410-a01de79b6bd0	Error:Cannot set headers after they are sent to the client
+20260205	07:42:10	48eb128c-d3bd-4fcb-ba48-a4c72fcffd61	Error:Cannot set headers after they are sent to the client
+20260205	08:01:43	bdb6645f-1b31-4cac-ac32-4acad106fd34	TypeError:res.sendStaus is not a function
+20260207	06:54:58	883b4cb4-6ff6-4c75-b242-9d096abdea6f	TypeError:Cannot read properties of undefined (reading 'password')
+20260207	06:55:32	9b00060a-e22c-410d-a962-b5580465ac73	ReferenceError:accesjwt is not defined
+20260207	06:56:40	b60c3b41-c858-4b59-8752-591798f438a0	ReferenceError:fsPromises is not defined
+20260207	08:51:10	a8e244b7-a5b2-470a-9175-0e1c8ea09707	SyntaxError:Expected double-quoted property name in JSON at position 68 (line 2 column 45)
+20260207	08:51:30	c2c3775b-d3a4-4cb9-8bd0-ddc447a70665	SyntaxError:Expected double-quoted property name in JSON at position 62 (line 1 column 63)
+20260208	08:11:50	3d43e7a1-6099-4002-b3a5-346778874c4e	TypeError:Cannot read properties of undefined (reading 'password')
+20260209	06:54:35	e93435ad-e57d-42be-9a45-da910754048c	TypeError:Cannot read properties of undefined (reading 'password')
+20260209	06:54:46	5636090b-6c45-41bb-a467-8fe71ad25be8	TypeError:Cannot read properties of undefined (reading 'password')
+20260209	13:05:38	ef6729fb-5b26-4149-93d0-e6f67f0a8274	SyntaxError:Unexpected token 'e', "eyJhbGciOi"... is not valid JSON
+20260209	13:29:17	9e38dcb2-982d-4b2b-8300-8b31c701683c	CastError:Cast to ObjectId failed for value "2" (type number) at path "_id" for model "Employee"
+20260209	13:29:24	a3bc3825-4c32-4fbb-9ea0-6e0019c12d4a	CastError:Cast to ObjectId failed for value "1" (type number) at path "_id" for model "Employee"
+20260209	13:29:26	b40ca486-9d80-478d-9921-677de93d248c	CastError:Cast to ObjectId failed for value "1" (type number) at path "_id" for model "Employee"
+20260209	13:29:55	168b3abc-4a4b-4697-8d57-d270df423ac2	CastError:Cast to ObjectId failed for value "1" (type number) at path "_id" for model "Employee"
+20260209	13:30:17	b8717b84-0f1f-47db-84ce-0bbb557992cb	SyntaxError:Expected ',' or '}' after property value in JSON at position 16 (line 1 column 17)
+20260209	16:27:52	978fbdc2-e68c-478a-bdb7-8df6c0a8fb33	SyntaxError:Unexpected non-whitespace character after JSON at position 349 (line 1 column 350)
+20260209	16:28:26	e1100211-7116-43d5-8e70-4d9ecdf07ebc	SyntaxError:Expected ',' or '}' after property value in JSON at position 348 (line 1 column 349)
+20260209	16:28:27	e50b469a-4546-46cc-bfa2-ad7a75a081e5	SyntaxError:Expected ',' or '}' after property value in JSON at position 348 (line 1 column 349)
+20260210	09:59:45	8c62edf8-d544-47ac-b355-895d30ff96a2	Error:Not allowed by CORS
+20260210	10:02:21	16c754cc-7651-4a98-97b7-0790fecaf0dd	Error:Not allowed by CORS
+20260210	10:02:45	f50ff125-e724-4b5e-953b-9870ea4d656e	Error:Not allowed by CORS
+20260210	10:54:49	c4d42931-231e-417e-852a-32b9f503ee8d	SyntaxError:Expected ',' or '}' after property value in JSON at position 30 (line 1 column 31)
+20260210	10:55:12	fe050aab-1f08-406a-8d9a-e9bd5e09f779	SyntaxError:Expected ',' or '}' after property value in JSON at position 30 (line 1 column 31)
+20260210	13:12:48	e497a609-709e-46e2-a851-96f69a2be9d8	SyntaxError:Expected double-quoted property name in JSON at position 76 (line 6 column 1)
+20260212	12:29:55	b4bb1f4b-314b-4e01-852e-cfbdc8cd4e59	SyntaxError:Expected double-quoted property name in JSON at position 371 (line 1 column 372)
+20260212	13:00:37	303273b2-4a62-47a2-a5a8-c67b4519557a	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-hfddnkv-shard-00-01.xzwcjir.mongodb.net
+20260212	13:00:37	45c34d5a-b39b-40b8-bcb1-ff9b47a1dd31	MongoServerSelectionError:getaddrinfo ENOTFOUND ac-hfddnkv-shard-00-01.xzwcjir.mongodb.net
+20260408	14:39:59	d85b66db-e696-4012-9036-0bd8e32f0a4e	Error:Request aborted
+20260408	14:39:59	42134841-4ff4-43d9-99ee-1fa209e8ae8a	Error:Request aborted
+20260408	14:40:02	d35169d9-1c35-4545-bb9e-e5193ef1096d	Error:Request aborted
+20260408	14:40:02	5eedcd20-5498-4f0b-be76-028aa1fa4393	Error:Request aborted
+20260408	14:40:02	942c3254-b37a-43ff-a07d-22b3fa3e2c9c	Error:Request aborted
+20260408	14:40:03	8d977329-206c-4c68-8d11-da689b9978a8	Error:Request aborted
+20260410	10:47:34	cdb82fc0-3f02-4b49-b8b8-bf4f7964bd0f	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260410	14:15:11	a75c2619-fe51-4290-9494-e35834ac7de7	CastError:Cast to ObjectId failed for value "2" (type number) at path "_id" for model "Employee"
+20260410	18:01:40	342bc872-d026-49cb-8305-c17c76f71e86	ReferenceError:Cannot access 'user' before initialization
+20260410	18:03:08	64ddf9b7-1368-431e-91f5-52bec3bae103	ReferenceError:Cannot access 'user' before initialization
+20260410	18:03:10	da4f7589-364d-40ac-9bb3-dcb13829262f	ReferenceError:Cannot access 'user' before initialization
+20260410	18:03:10	aa670b2f-6895-4a30-a7b8-49b8b7ff57f1	ReferenceError:Cannot access 'user' before initialization
+20260410	18:03:44	1977482a-8940-4da6-a359-6fdc2fdd63d6	ReferenceError:Cannot access 'user' before initialization
+20260410	18:04:21	fa4759af-3b25-4902-b81e-4fb454593b57	ReferenceError:Cannot access 'user' before initialization
+20260410	18:04:21	48c7b682-304f-438a-b017-b4729b88510a	ReferenceError:Cannot access 'user' before initialization
+20260410	20:06:35	83986aff-874d-4642-a941-297f86145e48	ReferenceError:Cannot access 'foundUser' before initialization
+20260410	20:06:38	ea52c6d9-127b-49ea-b88d-1ef5fc6d60ff	ReferenceError:Cannot access 'foundUser' before initialization
+20260410	21:35:10	f7d7e4e8-4b1b-4162-b471-baefb2f52cbf	TypeError:Cannot read properties of undefined (reading 'channelName')
+20260411	14:34:26	85bebef7-9472-4ba9-9e51-59552de00b05	MongoNetworkError:read ECONNRESET
+20260411	17:30:50	e3e892d0-f09f-45ac-9e38-a719077fb028	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	17:32:06	a3f3a7a1-cb00-433d-be83-b64bc2d454b6	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	17:33:43	95f188e3-2136-48f7-aa2b-218aeb73348e	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	17:33:44	a3af3db1-178a-4083-baab-06b35db7c0ea	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	17:34:32	edaafcbd-9f22-43e1-a491-97ac095344b7	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	17:34:33	ac5f6cc0-b818-4807-b439-e61e170fa89d	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	18:12:42	7a16fc2a-5624-432d-a03d-e68c126387ac	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	18:12:59	8b640001-9728-467d-a8ab-6ec2410c5a4a	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	18:16:50	8277ee0f-1ffa-44a4-a352-8dadb0af4140	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	18:17:17	3a05072b-7d95-4198-966c-368dd0ac45d6	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	18:17:18	ea3ab5c6-fe45-459e-b9bb-c69a0c60661a	ReferenceError:Cannot access 'practiceModel3' before initialization
+20260411	20:38:20	07d5285c-277f-45a5-860e-611d4227fe6c	SyntaxError:Unexpected token '"', ""{\"videoI"... is not valid JSON
+20260415	09:17:54	f4186a62-fa85-4ff6-adcd-dbb0ff897e55	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260415	11:08:28	c59ea1ac-3248-4916-91e1-170a2d2ed05e	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260415	11:41:08	f7af2594-b7e9-4f07-9d2f-f2efa75da7d2	Error:Cannot set headers after they are sent to the client
+20260415	11:45:33	7f63b75c-d326-4f8b-8809-882769dc3bd6	Error:Cannot set headers after they are sent to the client
+20260415	12:16:28	9ffc644e-6bb4-4c52-be91-7b87951142ab	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260415	12:20:34	6618b932-ccf0-413f-b80d-a03610db4c6c	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260415	12:27:51	a7d291f8-bb9a-4257-bdff-0bc3bfef8df5	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260415	12:31:26	c9cbb40b-576c-432f-aade-5757d3a4b48c	Error:Cannot set headers after they are sent to the client
+20260415	12:31:49	43d1f4a2-5103-483a-9c24-d79f7519c3f3	Error:Cannot set headers after they are sent to the client
+20260415	12:32:12	86f9adfd-de93-40e5-b977-ed2a90c7aff8	Error:Cannot set headers after they are sent to the client
+20260415	12:41:02	42cd1f57-e63f-41be-80ff-b39e1eff4dc1	Error:Cannot set headers after they are sent to the client
+20260415	12:41:03	badc2132-2834-468f-80f6-2fbd7e4f4306	Error:Cannot set headers after they are sent to the client
+20260415	12:42:06	b16b9610-2bfe-4a6e-b9f0-b2d38d1dfa13	Error:Cannot set headers after they are sent to the client
+20260415	12:54:03	2f6f2484-ef1a-437d-8c44-e151c1f722f8	Error:Cannot set headers after they are sent to the client
+20260415	12:54:15	56ac589a-327c-4c1e-b17d-0220cbb94d65	Error:Cannot set headers after they are sent to the client
+20260415	12:54:32	26d7b416-8b1d-4a22-bc1a-ff5a03034818	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260415	13:00:50	4bcfddce-18a9-43d4-924f-22bced96535a	Error:Cannot set headers after they are sent to the client
+20260415	13:01:13	cccc1966-599d-4960-a70a-914c42ac21b9	Error:Cannot set headers after they are sent to the client
+20260415	13:01:24	5e6ed732-7b76-4471-9ec0-de3257b8bb3d	Error:Cannot set headers after they are sent to the client
+20260415	13:04:18	d4735b5d-6816-42dc-9223-1529edd2059b	Error:Cannot set headers after they are sent to the client
+20260415	13:10:55	71be4fad-7712-4740-8467-327e037cfc28	Error:Cannot set headers after they are sent to the client
+20260415	13:11:12	28839714-5ce4-47b8-94f7-5c0007727676	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260415	13:32:41	73a7df44-b21a-4ff8-a0a2-8dba5d6063d0	TypeError:Cannot read properties of undefined (reading 'image')
+20260415	19:54:33	351e4b4c-4a06-4d6e-aab4-7faa681f5e0a	Error:Cannot set headers after they are sent to the client
+20260415	19:54:35	14c1923e-2b7c-4abc-8f77-e300b7f8c9e0	Error:Cannot set headers after they are sent to the client
+20260415	21:45:10	1dfa983c-2d68-43d6-9b0f-c010e770d368	Error:Cannot set headers after they are sent to the client
+20260415	21:48:43	334644b8-e239-4115-a0c4-94d8d0903165	Error:Cannot set headers after they are sent to the client
+20260415	21:50:47	d5026676-5eb4-459e-bb80-3cbb4f2e4aeb	Error:Cannot set headers after they are sent to the client
+20260415	21:50:53	9bf36187-075a-4c1b-8a6a-59e4ec3d59b1	Error:Cannot set headers after they are sent to the client
+20260416	08:33:07	f3b55314-6e4f-41ae-810a-3fd99f391ce0	SyntaxError:Unexpected token '"', ""{\n    \""... is not valid JSON
+20260416	08:46:20	272da6b8-bb9b-48b7-af85-d831eb56ddc7	SyntaxError:Unexpected token '"', "" {\n   \""... is not valid JSON
+20260416	09:05:04	e0095391-3533-4bd8-8a21-6a7d4d373ad5	Error:Cannot set headers after they are sent to the client
+20260416	09:23:09	be3e5b4d-a639-4d12-9451-8cefb0c11968	Error:Cannot set headers after they are sent to the client
+20260416	09:27:42	4c15d94e-1ba7-4d1b-83ec-ee35bca38d9f	Error:Cannot set headers after they are sent to the client
+20260416	14:32:19	a83a671a-8ebb-482a-9ce4-c7c1e050aeca	ReferenceError:validateUserInput is not defined
+20260416	14:32:30	f677c11e-e140-4c64-b0d7-a9ad5bdfd006	ReferenceError:validateUserInput is not defined
+20260416	19:41:17	9170fb31-7427-48fa-bda5-36ff7fff8c1e	TypeError:Cannot use 'in' operator to search for 'views' in undefined
+20260416	19:42:13	bdc9b5d0-b6a6-4e5b-be5b-8f1b646dfb18	Error:Cannot set headers after they are sent to the client
+20260417	15:14:56	2cf42588-edb5-4d8e-9275-3e3cec0ee759	SyntaxError:Unexpected token '"', ""{\r\n  \""... is not valid JSON
+20260708	19:59:43	7bcc8fc3-107e-4d52-96ef-71d8a6bad809	Error:Request aborted
+20260708	20:16:00	518bc0e5-a3d9-4330-8700-8b3ec931f3b9	Error:Request aborted
+20260708	20:19:31	dda44b64-8dc4-47da-844d-9b958d9e2176	Error:Request aborted
+20260708	20:30:04	ca174b0c-1e0b-4f6c-adca-0952e196a5c0	Error:Request aborted
