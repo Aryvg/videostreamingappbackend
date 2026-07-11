@@ -122,6 +122,18 @@ const handleNewUser = async (req, res) => {
             return res.status(409).json({ message: 'User already exists.' });
         }
 
+        const hashedPwd = await bcrypt.hash(pwd, 10);
+        duplicate.username = normalizedUser;
+        duplicate.email = normalizedUser;
+        duplicate.password = hashedPwd;
+        duplicate.firstname = firstname;
+        duplicate.lastname = lastname;
+        duplicate.profilePhoto = profilePhoto;
+        duplicate.age = ageNum;
+        duplicate.country = country;
+        duplicate.pendingDeleteAt = new Date(Date.now() + 24 * 60 * 60 * 1000);
+        await duplicate.save();
+
         await sendVerificationCode(duplicate);
         return res.status(409).json({
             message: 'Account pending verification. A new verification code has been sent to your email.'
